@@ -4,11 +4,11 @@
 html {
     scroll-behavior: smooth;
   }
-  body {
+body {
     font-family: "Work Sans", sans-serif;
     overflow-x: hidden;
   }
-  .contaier {
+.contaier {
     padding-left: 15px;
     padding-right: 15px;
     margin-left: auto;
